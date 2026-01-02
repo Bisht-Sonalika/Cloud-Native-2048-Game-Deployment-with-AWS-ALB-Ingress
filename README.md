@@ -52,8 +52,8 @@ kubectl apply -f manifests/
 ☸️ EKS Cluster Status (Active)
 [EKS Cluster Active](eks-cluster-active.png)
 
-📋 EKS Cluster Details
-[Cluster Details](cluster-details.png)
+📋 EKS Cluster Overview
+[Cluster Details](cluster-overview.png)
 
 🌐 Cluster Networking & OIDC Configuration
 [Cluster Networking](cluster-networking.png)
