@@ -47,16 +47,16 @@ kubectl apply -f manifests/
 
 
 2048 Game Running (Public ALB URL)
-[2048 App Running](screenshots/2048-app-running.png)
+[2048 App Running](2048-app-running.png)
 
 ☸️ EKS Cluster Status (Active)
-[EKS Cluster Active](screenshots/eks-cluster-active.png)
+[EKS Cluster Active](eks-cluster-active.png)
 
 📋 EKS Cluster Details
-[Cluster Details](screenshots/cluster-details.png)
+[Cluster Details](cluster-details.png)
 
 ⚙️ AWS Load Balancer Controller Pods
-[ALB Controller Pods](screenshots/alb-controller-pods.png)
+[ALB Controller Pods](alb-controller-pods.png)
 
 🌐 Application Load Balancer Created Automatically
-[ALB Created](screenshots/alb-created.png)
+[ALB Created](alb-created.png)
