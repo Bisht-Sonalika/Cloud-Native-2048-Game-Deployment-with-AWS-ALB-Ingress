@@ -55,6 +55,9 @@ kubectl apply -f manifests/
 📋 EKS Cluster Details
 [Cluster Details](cluster-details.png)
 
+🌐 Cluster Networking & OIDC Configuration
+[Cluster Networking](cluster-networking.png)
+
 ⚙️ AWS Load Balancer Controller Pods
 [ALB Controller Pods](alb-controller-pods.png)
 
